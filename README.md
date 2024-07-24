@@ -1,1 +1,1 @@
-# freeCodeCam_number_guessing_game
+# freeCodeCamp_number_guessing_game
